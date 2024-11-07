@@ -1,0 +1,8 @@
+n=int(input("enter the range: "))
+def call_fact():
+    if n==0 and n==1:
+        return n
+    else:
+        fact*= n
+        n=n-1
+print(fact)
